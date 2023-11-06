@@ -1,0 +1,27 @@
+#Reference: https://security5magics.blogspot.com/2023/10/interesting-customloader-observed-in.html
+#Author: Luke Acha (www.lukeacha.com)
+
+FileNames:
+PDFunk.exe
+pdfconverters.exe
+createmygif.exe
+
+MD5 Hashes:
+man.js 3ea1a0e3ebeb32d2c83af2c23855efd8
+pdfconverters.exe 2e92db69ebdab1e5250985fc08ca87df
+createmygif.exe/app.dll 6faad69464b004a918a9c5daa3d9ecb6
+PDFunk.exe 6bd0c23b95bea2542f5154959557d2c5
+
+Domains:
+pdfunk.com
+createmygif.com
+screen-records.com
+videownload.com
+pdfconverterz.com
+zipextractors.com
+econenectedithc.net
+ndingcouncern.com
+andingswon.com
+reatmenttoget.com
+pdfconvertercompare.com
+haitingshospical.com
