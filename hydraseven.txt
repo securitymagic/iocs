@@ -6,6 +6,8 @@ PDFunk.exe
 pdfconverters.exe
 createmygif.exe
 ZipExtractors.exe
+PdfConverterz.exe
+VideoDownload.exe
 
 MD5 Hashes:
 man.js
@@ -18,6 +20,8 @@ app.dll
 6faad69464b004a918a9c5daa3d9ecb6
 2e92db69ebdab1e5250985fc08ca87df
 2be7bf9fd4c81bad45c8ce09156b675c
+3aa4cafaf71001ec92daa7546db660b6
+f82b2520da428cfdcf0d8ee6f238af53
 
 PDFunk.exe
 6bd0c23b95bea2542f5154959557d2c5
