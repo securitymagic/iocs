@@ -5,6 +5,7 @@ FileNames:
 PDFunk.exe
 pdfconverters.exe
 createmygif.exe
+ZipExtractors.exe
 
 MD5 Hashes:
 man.js
@@ -16,6 +17,7 @@ pdfconverters.exe
 app.dll 
 6faad69464b004a918a9c5daa3d9ecb6
 2e92db69ebdab1e5250985fc08ca87df
+2be7bf9fd4c81bad45c8ce09156b675c
 
 PDFunk.exe
 6bd0c23b95bea2542f5154959557d2c5
