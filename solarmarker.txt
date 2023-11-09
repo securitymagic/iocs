@@ -1,0 +1,15 @@
+References: 
+https://squiblydoo.blog/2023/11/07/october-2023-solarmarker/
+https://security5magics.blogspot.com/2023/10/new-solarmarker-variant-october-2023.html
+
+backdoor DLL:
+8dd73de5f5ee58b327bdf44efedbf64c
+
+Dropper:
+988955bfa46336be7eb44f11f5427699
+1977641039583fade1b370ab3c923e21
+
+C2:
+146.70.80.79
+212.237.217.136
+78.135.73.176
