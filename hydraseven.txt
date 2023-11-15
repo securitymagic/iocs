@@ -8,6 +8,7 @@ createmygif.exe
 ZipExtractors.exe
 PdfConverterz.exe
 VideoDownload.exe
+pdfswitcher.exe
 
 MD5 Hashes:
 man.js
@@ -15,6 +16,9 @@ man.js
 
 pdfconverters.exe
 74b6039660be3eda726a4eee209679ba
+
+pdfswitcher.exe
+41ef73104aa4501148bb8d03b89a8b3e
 
 app.dll 
 6faad69464b004a918a9c5daa3d9ecb6
@@ -45,3 +49,6 @@ ewrevenuewasa.info
 dprivatedqualize.info
 ivelelasticalsdeb.info
 qntlysearchingfora.info
+ziptweak.com<
+pdfixers.com<
+pdfswitcher.com
