@@ -9,6 +9,8 @@ ZipExtractors.exe
 PdfConverterz.exe
 VideoDownload.exe
 pdfswitcher.exe
+zipqueens.exe
+pdfuzz.exe
 
 MD5 Hashes:
 man.js
@@ -52,3 +54,5 @@ qntlysearchingfora.info
 ziptweak.com<
 pdfixers.com<
 pdfswitcher.com
+pdfuzz.com
+zipqueens.exe
