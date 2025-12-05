@@ -15,7 +15,7 @@ Each entry links back to the full write-up on my blog.
 
 - **SolarMarker**  
   - [New SolarMarker Variant (October 2023)](https://blog.lukeacha.com/2023/10/new-solarmarker-variant-october-2023.html)
- 
-  - **YAPA**
+
+- **YAPA**
   - [PDFSupernova malware](https://blog.lukeacha.com/2025/11/fake-pdf-converter-hides-dark-secret.html)
   - [PrimePDFConvert malware](https://blog.lukeacha.com/2025/11/primepdfconvert-yapa-yet-another-pdf.html)
