@@ -19,3 +19,7 @@ Each entry links back to the full write-up on my blog.
 - **YAPA**
   - [PDFSupernova malware](https://blog.lukeacha.com/2025/11/fake-pdf-converter-hides-dark-secret.html)
   - [PrimePDFConvert malware](https://blog.lukeacha.com/2025/11/primepdfconvert-yapa-yet-another-pdf.html)
+
+- **Proxyware**
+  -[Microsoft App Store hosting Proxyware](https://blog.lukeacha.com/2026/05/fake-windirstat-lightshot-apps-deliver.html)
+  -[Microsoft App Store Proxyware Part 2](https://blog.lukeacha.com/2026/07/microsoft-store-apps-go-backconnect.html)
