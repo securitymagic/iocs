@@ -23,3 +23,6 @@ Each entry links back to the full write-up on my blog.
 - **Proxyware**
   - [Microsoft App Store hosting Proxyware](https://blog.lukeacha.com/2026/05/fake-windirstat-lightshot-apps-deliver.html)
   - [Microsoft App Store Proxyware Part 2](https://blog.lukeacha.com/2026/07/microsoft-store-apps-go-backconnect.html)
+
+- **TamperedChef 2026**
+  -[Inside CookUp: A Suspicious Server-Gated Installer and In-Memory Loader](https://blog.lukeacha.com/2026/10/do-we-call-this-recipe-app-tamperedchef.html)
